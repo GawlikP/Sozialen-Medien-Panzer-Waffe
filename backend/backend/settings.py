@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'core',
     'comments.apps.CommentsConfig',
     'hearts.apps.HeartsConfig',
+    'followers.apps.FollowersConfig',
 ]
 
 MIDDLEWARE = [
